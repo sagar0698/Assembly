@@ -68,11 +68,7 @@ Test the program with small integer inputs such as 3, 4, 7, and 10.
 
 Try to break the program: try entering 900 million, or even larger inputs.  The program has broke when it produces a junk answer.  For example, if the computed area is negative then it is broke (for that one input).  What is the largest integer radius your program can handle correctly?
 
-Here are your options:
 
-1.  Privately hold this program in a safe folder on your laptop.  Bring your own laptop to use during the first in class programming test.
-
-2.  You may send the program (3 files) to the professor.  I will read your source code and run the program and reply with my opinion.  If there are ways to improve the program I will suggest them.  Send programs as attachments to me:  holliday@fullerton.edu
 
 
 
